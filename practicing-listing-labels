@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Learning html</title>
+</head>
+<body>
+    <header> 
+        <div>
+    <h1>Etiquetas Semanticas y No Semanticas en Html</h1>
+</div>
+</header>
+
+
+    <div> 
+        <h2> Etiquetas Semanticas</h2>
+        
+<pre> <ol> 
+    <li><i>&lt;title&gt;</i>  Define el título de la página en la pestaña </li>
+    <li><i>&lt;body&gt;</i>  Define el cuerpo o contenido principal de la página </li>
+    <li><i>&lt;header&gt;</i>  Encabezado principal o de sección </li>
+    <li><i>&lt;nav&gt;</i> Área de navegación </li>
+    <li><i>&lt;main&gt;</i> Contenido principal del documento </li>
+    <li><i>&lt;section&gt;</i> Sección de contenido con propósito específico </li>
+    <li><i>&lt;article&gt;</i> Contenido independiente o auto contenido </li>
+    <li><i>&lt;aside&gt;</i>  Contenido relacionado o lateral </li>
+    <li><i>&lt;footer&gt;</i> Pie de página del documento o sección </li>
+    <li><i>&lt;h1&gt;</i>  Encabezado de nivel 1 </li>
+    <li><i>&lt;h2&gt;</i>  Encabezado de nivel 2 </li>
+    <li><i>&lt;h3&gt;</i>  Encabezado de nivel 3 </li>
+    <li><i>&lt;h4&gt;</i>  Encabezado de nivel 4 </li>
+    <li><i>&lt;h5&gt;</i>  Encabezado de nivel 5 </li>
+    <li><i>&lt;h6&gt;</i>  Encabezado de nivel 6 </li>
+    <li><i>&lt;figure&gt;</i>  Contenedor para contenido multimedia como imágenes </li>
+    <li><i>&lt;figcaption&gt;</i>  Leyenda para la figura </li>
+    <li><i>&lt;address&gt;</i> Información de contacto /li>
+    <li><i>&lt;time&gt;</i>  Define una hora o fecha </li>
+    <li><i>&lt;summary&gt;</i> Resumen para el elemento &lt;details&gt; </li>
+    <li><i>&lt;details&gt;</i> Contenido desplegable que el usuario puede abrir/cerrar </li>
+    <li><i>&lt;mark&gt;</i> Texto resaltado por su relevancia </li>
+    <li><i>&lt;em&gt;</i> Texto enfatizado, usualmente en cursiva </li>
+    <li><i>&lt;strong&gt;</i> Texto importante o fuerte, generalmente en negrita </li>
+    <li><i>&lt;cite&gt;</i> Referencia a una obra o fuente </li>
+    <li><i>&lt;blockquote&gt;</i> Cita de bloque de texto </li>
+    <li><i>&lt;q&gt;</i> Cita corta en línea </li>
+    <li><i>&lt;dfn&gt;</i>  Define un término </li>
+
+</pre></ol>
+</div>
+
+
+
+<div class="div_2" >
+    <h2> Etiquetas No Semanticas </h2>
+    <pre> <ol> 
+    <li><i>&lt;div&gt;</i>  Contenedor de bloque sin significado específico </li>
+        <li><i>&lt;span&gt;</i> Contenedor en línea sin significado específico </li>
+        <li><i>&lt;b&gt;</i> Texto en negrita (sin transmitir importancia) </li>
+        <li><i>&lt;i&gt;</i> Texto en cursiva (sin transmitir énfasis) </li>
+        <li><i>&lt;u&gt;</i>  Texto subrayado </li>
+        <li><i>&lt;small&gt;</i>  Texto más pequeño </li>
+        <li><i>&lt;s&gt;</i> Texto tachado </li>
+        <li><i>&lt;br&gt;</i> Salto de línea </li>
+        <li><i>&lt;hr&gt;</i> Separador o línea horizontal </li>
+        <li><i>&lt;pre&gt;</i> Texto preformateado, mantiene los espacios y saltos </li>
+        <li><i>&lt;code&gt;</i>  Fragmento de código, generalmente en un bloque </li>
+    </pre></ol>
+</div>
+
+<footer>
+    <p>&copy; 2024 Mi Página Web. Todos los derechos reservados.</p>
+</footer>
+
+</body>
+</html>

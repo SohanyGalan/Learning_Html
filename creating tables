@@ -1,1 +1,29 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>creating tables in html</title>
+</head>
+<body>
+    <table border="1">  <!-- Define una tabla con un borde de 1 píxel -->
+        <tr> <!--tr es table row--> <!-- Inicia una nueva fila en la tabla --> 
+            <th>Nombre</th>  <!--th es table head--> <!-- Encabezado de la primera columna que representa el nombre del usuario --> 
+            <th>Apellido</th>  <!-- Encabezado de la segunda columna que representa el apellido del usuario -->
+            <th>Email</th>  <!-- Encabezado de la tercera columna que representa el correo electrónico del usuario -->
+        </tr>
+        <tr>  <!-- Inicia una nueva fila para los datos del primer usuario -->
+            <td>Juan</td>  <!-- Celda de datos que contiene el nombre del primer usuario -->
+            <td>Perez</td>  <!-- Celda de datos que contiene el apellido del primer usuario -->
+            <td>jperez@mail.com</td>  <!-- Celda de datos que contiene el correo electrónico del primer usuario -->
+        </tr>
+        <tr>  <!-- Inicia una nueva fila para los datos del segundo usuario -->
+            <td>María</td>  <!-- Celda de datos que contiene el nombre del segundo usuario -->
+            <td>Lara</td>  <!-- Celda de datos que contiene el apellido del segundo usuario -->
+            <td>mlara@mail.com</td>  <!-- Celda de datos que contiene el correo electrónico del segundo usuario -->
+        </tr>
+    </table>
+    
+    
+</body>
+</html>

@@ -1,0 +1,31 @@
+//Las etiquetas no semánticas en HTML son aquellas que no proporcionan información sobre el significado o la función del contenido que encierran. 
+Es decir, no indican el tipo de contenido que contienen ni su relación con otros elementos en el documento.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Learning html</title>
+</head>
+<body>
+    <header> 
+        <div>
+    <h1>Etiquetas No Semanticas en Html</h1>
+</div>
+</header>
+
+<pre> <ol> 
+    <li><i>&lt;div&gt;</i>  Contenedor de bloque sin significado específico </li>
+        <li><i>&lt;span&gt;</i> Contenedor en línea sin significado específico </li>
+        <li><i>&lt;b&gt;</i> Texto en negrita (sin transmitir importancia) </li>
+        <li><i>&lt;i&gt;</i> Texto en cursiva (sin transmitir énfasis) </li>
+        <li><i>&lt;u&gt;</i>  Texto subrayado </li>
+        <li><i>&lt;small&gt;</i>  Texto más pequeño </li>
+        <li><i>&lt;s&gt;</i> Texto tachado </li>
+        <li><i>&lt;br&gt;</i> Salto de línea </li>
+        <li><i>&lt;hr&gt;</i> Separador o línea horizontal </li>
+        <li><i>&lt;pre&gt;</i> Texto preformateado, mantiene los espacios y saltos </li>
+        <li><i>&lt;code&gt;</i>  Fragmento de código, generalmente en un bloque </li>
+    </pre></ol>
